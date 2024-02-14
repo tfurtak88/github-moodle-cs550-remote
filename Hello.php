@@ -1,2 +1,2 @@
-$hello = "Hello World"
-echo #hello;
+$hello = "Hello World";
+echo $hello;
